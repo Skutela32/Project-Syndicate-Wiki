@@ -9,12 +9,12 @@ Use the sidebar or the links below to find what you need.
 ---
 
 ## 🚗 Cars
-- [Tuning - How to Tune](Tuning---How-to-Tune)
-- [Parts - All Parts and What They Do](Parts---All-Parts-and-What-They-Do)
-- [Repairing Car Parts](Repairing-Car-Parts)
-- [OBD Scanner - How to Use](OBD-Scanner---How-to-Use)
-- [OBD Fault Codes - Diagnosing](OBD-Fault-Codes---Diagnosing)
-- [Damage Parts - How Damage Works](Damage-Parts---How-Damage-Works)
+- [Tuning - How to Tune](Tuning)
+- [Parts - All Parts and What They Do](Parts)
+- [Repairing Car Parts](Repairing)
+- [OBD Scanner - How to Use](OBD-Scanner)
+- [OBD Fault Codes - Diagnosing](OBD-Fault-Codes)
+- [Damage Parts - How Damage Works](Damage-Parts)
 - [Off Road Physics](Off-Road-Physics)
 - [Custom Tires](Custom-Tires)
 - [Cosmetic Upgrades](Cosmetic-Upgrades)
