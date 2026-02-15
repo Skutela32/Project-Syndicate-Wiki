@@ -1,0 +1,11 @@
+title: Project Syndicate Wiki
+description: Official server wiki for Project Syndicate
+theme: just-the-docs
+
+color_scheme: dark
+
+search_enabled: true
+
+aux_links:
+  "Join Discord":
+    - "https://discord.gg/YOURINVITE"
