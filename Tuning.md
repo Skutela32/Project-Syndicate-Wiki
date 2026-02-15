@@ -1,9 +1,3 @@
----
-title: Tuning
-parent: Cars
-nav_order: 1
----
-
 # Tuning - How to Tune
 
 ## Overview
