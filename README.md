@@ -1,4 +1,3 @@
-# Project Syndicate Wiki
 
 Welcome to the **Project Syndicate** server wiki.
 
