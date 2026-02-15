@@ -9,3 +9,7 @@ search_enabled: true
 aux_links:
   "Join Discord":
     - "https://discord.gg/YOURINVITE"
+
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
